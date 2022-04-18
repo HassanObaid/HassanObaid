@@ -12,5 +12,5 @@ Hi, I am Hassan Obaid and I am interested in learning new technologies and techn
 I am studying Software Engineering from PUCIT(Punjab University College of Information and Technology).
 Also I am currently learning DSA in C++ and Operating System i.e LINUX from great Professors. I am looking to
 collaborate on new programming techniques to build successful career as Software Engineer.
-Feel free to contact 
+Feel free to contact on: 
 hassanobaid10109145@gmail.com
